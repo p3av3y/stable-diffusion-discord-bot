@@ -1,7 +1,7 @@
 {
-    "token": "",
-    "clientId": "",
-    "guildId": "",
-    "txt2imgApiUrl": "",
+    "token": "<TOKEN>",
+    "clientId": "<CLIENTID>",
+    "guildId": "<GUILDID>",
+    "txt2imgApiUrl": "<TXT2IMGAPIURL>",
     "cooldown_time_secs": 30
 }
