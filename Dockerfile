@@ -28,4 +28,4 @@ RUN [ -f /srv/stable-diffusion-discordf-bot/config.json.template ] && cat /srv/s
 #EXPOSE 3000
 
 # Define the command to run your Node.js application
-CMD ["node", "index.js"]
+#CMD ["node", "index.js"]
